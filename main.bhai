@@ -1,0 +1,19 @@
+hi bhai
+    bhai ye hai naam = "vivek";
+    bol bhai naam;
+
+
+    bhai ye hai number = 0;
+    jab tak bhai (number < 100) {
+      number = number + 1;
+
+      agar bhai (number == 96) {
+         agla dekh bhai;
+      } warna bhai {
+        bol bhai number;
+      }
+      
+    }
+
+
+bye bhai
